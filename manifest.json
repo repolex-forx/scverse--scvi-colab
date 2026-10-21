@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "scverse",
+  "repo": "scvi-colab",
+  "versions": [
+    {
+      "commit": "4bf7fcf9380272ad5c093e3f03870acac048ef26",
+      "parsed_at": "2026-10-21T20:28:52.134767+00:00",
+      "filetree": "filetree/4bf7fcf9380272ad5c093e3f03870acac048ef26.nq.gz",
+      "blobs": [
+        "blob/aac4cf4e016b70366ab6a4e8a31dd87dcf486ce7.nq.gz",
+        "blob/914ad69d5046bebb8743ad4f7a9f003284d56925.nq.gz",
+        "blob/26d33521af10bcc7fd8cea344038eaaeb78d0ef5.nq.gz",
+        "blob/d3a6bd11da36e5c596e2d2bc3d77d14dfdf2d914.nq.gz",
+        "blob/cec2437153b4010766958c951dfdfda33369600d.nq.gz",
+        "blob/491e46609299189dc3f9ba9a65293adf461a4aca.nq.gz",
+        "blob/1fb9b14d331cd7a186a8c0638a560aa3e3dd8aed.nq.gz",
+        "blob/0b5b93c5d2d852707f00049d3671ad8b7c2b66b7.nq.gz",
+        "blob/d5d78d87aac05ee25dd73a45a6ddad367d1a098f.nq.gz",
+        "blob/dc7e9b7466e239ee9714d5e3612bb2c595df2c0e.nq.gz",
+        "blob/4fd9ffca430b1d0a6c0d151be1fff8d0a22ecf40.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/7e2320f2f32a5954a0e7e92a982fbe5129bf9d6a.nq.gz",
+        "blob/373253be0cf05bb804c19e505b59b1f25457979a.nq.gz",
+        "blob/cdbbe3d9ddf02378537429f9fc3fd252b5043a26.nq.gz",
+        "blob/e7381556efdf6a9b8218a109f7a7e7836e712ccd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
