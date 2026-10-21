@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/scvi-colab/commit/4bf7fcf9380272ad5c093e3f03870acac048ef26",
       "git:hexsha": "4bf7fcf9380272ad5c093e3f03870acac048ef26",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scverse/scvi-colab/commit/40dd5d7963c186b234a8dd77d601f239444ef1d4",
