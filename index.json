@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "scvi-colab",
+  "versions": [
+    {
+      "commit": "4bf7fcf9380272ad5c093e3f03870acac048ef26",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:30:58.276411+00:00"
+    }
+  ]
+}
